@@ -9,3 +9,6 @@ https://www.overleaf.com/5978239496ktskwkphbrxp
 As i mentioned in the group i wasnt sure how else to proceed with the report, I did based on what I could interpret.
 
 I see that part 3 overlaps o part 2, it can be reused, I will try to work on part 3 today a bit. but i hope you guys can take it forward.
+
+
+I have started with the Part 3 and the notebook is updated with the progress i made.

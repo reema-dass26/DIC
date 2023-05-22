@@ -3,7 +3,7 @@ Dic exercise 2
 
 
 
-I hae worked on Part 1 and part 2 of the exercise. Reported briefly about both the tasks in an overleaf report. the lik to that is here:
+I have worked on Part 1 and part 2 of the exercise. Reported briefly about both the tasks in an overleaf report. the lik to that is here:
 https://www.overleaf.com/5978239496ktskwkphbrxp
 
 As i mentioned in the group i wasnt sure how else to proceed with the report so this, i did based on what i could interpret.
